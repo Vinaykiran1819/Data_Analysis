@@ -1,5 +1,6 @@
-### Overview
-This project involved cleaning and analyzing a dataset of Airbnb listings in Bangkok to prepare it for building a price prediction model. We started by sampling the data to create separate sets for training, testing, and validation. During the exploration phase, we handled missing values, explored data patterns through univariate, bivariate, and multivariate analysis, and visualized the data. We then modified the data by standardizing values, transforming data, analyzing outliers, and using principal component analysis to reduce dimensionality. This careful preparation helps in understanding the factors that influence pricing in Airbnb listings and sets the stage for accurate predictive modeling.
+## Overview
+This project leveraged PySpark to conduct a thorough exploratory data analysis (EDA) on the Paycheck Protection Program (PPP) dataset, aiming to unearth important trends and understand the dataset’s characteristics effectively. Using PySpark’s robust data processing features, the project handled the downloading, loading, and preprocessing of the PPP data efficiently, ensuring clean and analysis-ready data. The comprehensive analysis included statistical methods and data visualization techniques to explore loan distributions, identify the most benefited sectors, and assess the geographical spread of loans. The insights gained from this analysis provided a clearer view of how the PPP program has been affecting different sectors and regions.
 
 ### Skills
-EDA, Preditive Modeling, JMP, Data Visualization
+Pyspark, EDA, Big Data Analytics, Data Visulization
+
